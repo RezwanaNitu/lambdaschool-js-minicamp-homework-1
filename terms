@@ -1,0 +1,7 @@
+# Variables
+=> Variables can be thought of as named containers. You can place data into these containers and then refer to the data simply by naming the container.
+
+An Example of variable declaration with its value
+
+*var name = 'Chris';
+*var isActive = true;
